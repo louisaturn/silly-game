@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Lucas",
+        "silly": true
+    },
+    {
+        "name": "Yuri",
+        "silly": false
+    },
+    {
+        "name": "Vitu",
+        "silly": true
+    },
+    {
+        "name": "Ana",
+        "silly": false
+    }
+]
